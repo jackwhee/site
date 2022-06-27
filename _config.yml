@@ -1,6 +1,7 @@
 title:            Mu-An Chiou
 description:      Mu-An Chiou's home page on the World Wide Web.
-url:              https://muan.co
+url:              https://ahavensite.herokuapp.com
+micropub_endpoint: https://jackwhee.github.io/site
 permalink:        /posts/:title
 timezone:         Asia/Taipei
 kramdown:
