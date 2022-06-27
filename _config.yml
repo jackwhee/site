@@ -1,5 +1,5 @@
-title:            Mu-An Chiou
-description:      Mu-An Chiou's home page on the World Wide Web.
+title:            Ahaven
+description:      Ahaven's home page on the World Wide Web.
 url:              https://ahavensite.herokuapp.com
 micropub_endpoint: https://jackwhee.github.io/site
 permalink:        /posts/:title
